@@ -1,2 +1,2 @@
 # meetup
-Collections of Clojure Taiwan Meetup
+Collection of Clojure Taiwan Meetup
