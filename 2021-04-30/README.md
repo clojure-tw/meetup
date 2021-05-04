@@ -16,4 +16,5 @@
 ### 簡報
 
 [Clojure isn't Lisp enough](https://github.com/clojure-tw/meetup/blob/master/2021-04-30/2021-04-clojure-isnt-lisp-enough.pdf)
+
 [LogSeq](https://hackmd.io/@kanru/Byvfw_Yv_)
